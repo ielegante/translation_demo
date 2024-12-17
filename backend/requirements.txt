@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+langchain-anthropic
+langchain-core==0.3.25
+langgraph
+pydantic
+langchain-openai
+langchain-groq
+langchain-anthropic
+langchain-google-genai
