@@ -179,3 +179,4 @@ pyrightconfig.json
 .flake8
 .black
 .isort.cfg
+.DS_Store
